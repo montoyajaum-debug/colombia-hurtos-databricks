@@ -12,6 +12,6 @@ Secciones:
 
 Los datos del dashboard son una copia fija de los resultados de la corrida del 16/10/2026: no se actualizan solos. Los gráficos estáticos equivalentes están en [`../images/`](../images/).
 
-Vista del dashboard: [`../images/dashboard_completo.png`](../images/dashboard_completo.png) · Video: [`../images/integracion_databricks_dashboard.mp4`](../images/integracion_databricks_dashboard.mp4).
+Vista del dashboard: [`../images/dashboard_completo.png`](../images/dashboard_completo.png) · Video: [`../images/integracion_databricks_dashboard.gif`](../images/integracion_databricks_dashboard.gif).
 
 Nota: el dashboard interactivo no tiene enlace público (la plataforma exige iniciar sesión para ver los datos), por eso se documenta con captura y video.

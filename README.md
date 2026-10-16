@@ -10,9 +10,22 @@
 
 ![Víctimas mensuales y pronóstico a seis meses](images/serie_pronostico.png)
 
-> Dashboard del proyecto (captura completa a continuación) y [video de 30 s](images/integracion_databricks_dashboard.mp4) con el flujo Gold → dashboard. Detalles en [`dashboard/README.md`](dashboard/README.md).
+### Dashboard
+
+Los datos del dashboard son una copia exportada de las tablas Gold (no una conexión en vivo). El recorrido muestra el flujo Gold → dashboard:
+
+![Recorrido: notebooks, tablas Gold y dashboard](images/integracion_databricks_dashboard.gif)
+
+![Dashboard: KPIs, serie con pronóstico, tasa nacional y comparación de modelos](images/dashboard_resumen.png)
+
+<details>
+<summary>Ver el dashboard completo (municipios, Ibagué, conteo vs tasa y notas de lectura)</summary>
 
 ![Dashboard completo](images/dashboard_completo.png)
+
+</details>
+
+Más detalles en [`dashboard/README.md`](dashboard/README.md).
 
 <details>
 <summary><b>English summary</b></summary>

@@ -1,0 +1,22 @@
+# Datos: no se suben al repositorio (ver data/README.md para descargarlos)
+*.csv
+*.xlsx
+*.parquet
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Credenciales: nunca versionar
+.env
+*.token
+*.pem
+
+# Sistema
+.DS_Store
+Thumbs.db
